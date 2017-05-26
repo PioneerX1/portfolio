@@ -1,0 +1,24 @@
+#pic_personal {
+  width: 100px;
+  height: 120px;
+  float: left;
+  padding-right: 4px;
+}
+
+#pic_salesteam {
+  width: 180px;
+  height: 120px;
+  float: right;
+  padding-left: 4px;
+}
+
+#pic_mom {
+  width: 180px;
+  height: 120px;
+  float: left;
+  padding-right: 4px;
+}
+
+h3 {
+  padding-bottom: 10px;
+}
