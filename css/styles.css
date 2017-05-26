@@ -1,5 +1,5 @@
 body {
-  background-color: #e3e6e8;
+  background: url("../img/painting.JPG");
 }
 
 img {
@@ -48,8 +48,14 @@ img {
   margin-left: 4px;
 }
 
-.contrast {
+.contrast1 {
   background-color: #93cfe2;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contrast2 {
+  background-color: #e8c38d;
   margin-left: auto;
   margin-right: auto;
 }
