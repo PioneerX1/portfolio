@@ -2,13 +2,23 @@ body {
   background: url("../img/painting.JPG");
 }
 
+p {
+  padding: 5px;
+}
+
 img {
   border: 2px solid black;
 }
 
 #pic_family {
+
   width: 160px;
   height: 120px;
+
+  /*
+  width: 25%;
+  height: 20%;
+  */
   float: left;
   margin-right: 4px;
 }
@@ -45,7 +55,20 @@ img {
   width: 180px;
   height: 120px;
   float: right;
+  margin-right: 4px;
+}
+
+#pic_canyonlands {
+  width: 180px;
+  height: 120px;
+  float: left;
   margin-left: 4px;
+}
+
+#pic_lapsteel {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 5px;
 }
 
 .contrast1 {
@@ -67,6 +90,7 @@ img {
 .box {
   border: 2px solid black;
   background-color: #e8c38d;
+  opacity: .6;
 }
 
 .row {
@@ -74,19 +98,18 @@ img {
   padding-right: 10px;
 }
 
-h1 {
-  text-align: center;
-}
-
-h2 {
+h1, h2, h3 {
   text-align: center;
 }
 
 h3 {
-  text-align: center;
   padding-bottom: 10px;
 }
 
+h4 {
+  padding: 5px;
+}
+
 ul {
-  padding-left: 60px;
+  text-align: center;
 }
