@@ -1,5 +1,5 @@
-#pic_personal {
-  width: 100px;
+#pic_family {
+  width: 160px;
   height: 120px;
   float: left;
   padding-right: 4px;
@@ -26,6 +26,20 @@
   padding-left: 4px;
 }
 
+#pic_arduino {
+  width: 180px;
+  height: 120px;
+  float: left;
+  padding-right: 4px;
+}
+
+#pic_canoe {
+  width: 180px;
+  height: 120px;
+  float: right;
+  padding-left: 4px;
+}
+
 .row {
   padding-left: 10px;
   padding-right: 10px;
@@ -42,4 +56,8 @@ h2 {
 h3 {
   text-align: center;
   padding-bottom: 10px;
+}
+
+ul {
+  padding-left: 60px;
 }
