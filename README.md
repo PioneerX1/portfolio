@@ -11,7 +11,7 @@ _This portfolio website contains background information on Mick as well as links
 ## Setup/Installation Requirements
 
 * _LOCAL: Navigate to portfolio directory and open portfolio.html_
-* _ONLINE: Visit _
+* _ONLINE: Visit https://pioneerx1.github.io/portfolio _
 
 ## Known Bugs
 
